@@ -1,0 +1,1 @@
+THis is simple URL shortener built with GO
